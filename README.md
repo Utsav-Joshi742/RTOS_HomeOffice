@@ -1,9 +1,5 @@
 # RTOS_HomeOffice
-Here's a `README.md` file for your code:
 
----
-
-# STM32-Based Embedded System Project
 
 ## Overview
 
@@ -103,6 +99,3 @@ The project files are organized as follows:
 
 This project is licensed under the STMicroelectronics Software License. For more details, see the [LICENSE](./LICENSE) file in the root directory.
 
----
-
-Feel free to customize this `README.md` further according to the specific details and functionalities of your project.
